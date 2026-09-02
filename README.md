@@ -1,4 +1,4 @@
-# Biblioteca API
+# API-validacion-y-paginacion
 
 API REST sencilla hecha con Node.js y Express para demostrar:
 
