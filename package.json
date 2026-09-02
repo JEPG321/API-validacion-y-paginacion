@@ -1,0 +1,22 @@
+{
+  "name": "biblioteca-api",
+  "version": "1.0.0",
+  "description": "API REST sencilla para biblioteca con validacion de datos y paginacion",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "validacion",
+    "paginacion"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
